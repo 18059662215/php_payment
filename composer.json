@@ -13,8 +13,8 @@
     },
     "autoload": {
         "psr-4": {
-            "WxPayPubHelper\\": "./Payment/WxPayPubHelper",
-            "Aliyun\\dangmianfu\\": "./Payment/Aliyun/dangmianfu"
+            "WxPayPubHelper\\": "./WxPayPubHelper",
+            "Aliyun\\dangmianfu\\": "./Aliyun/dangmianfu"
         }
     }
 }
