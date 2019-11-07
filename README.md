@@ -8,9 +8,9 @@
 
 * **文档链接地址**：https://www.kancloud.cn/liukiaming/payment#/catalog
 
-* **git地址**：https://github.com/18059662215/php_common
+* **git地址**：https://github.com/18059662215/php_payment
 
-* **packagist地址**：https://packagist.org/packages/liukaiming/phpcommon
+* **packagist地址**：https://packagist.org/packages/liukaiming/phppayment
 
 **`SDK`版权声明**
 --
